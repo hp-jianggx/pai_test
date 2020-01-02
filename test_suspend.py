@@ -1,1 +1,3 @@
-input('please input')
+import time
+
+time.sleep(3600)
